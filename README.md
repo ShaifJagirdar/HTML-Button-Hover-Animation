@@ -14,11 +14,11 @@ This is a simple project demonstrating a button hover animation using the `::bef
 ## Installation and Usage
 1. **Download or Clone the Repository:**
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/ShaifJagirdar/HTML-Button-Hover-Animation
    ```
 2. **Navigate to the Project Folder:**
    ```sh
-   cd <project-folder>
+   cd HTML-Button-Hover-Animation
    ```
 3. **Open `index.html` in a Browser:**
    - Simply double-click the `index.html` file, or
